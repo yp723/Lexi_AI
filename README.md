@@ -16,8 +16,13 @@ This high accuracy level is significant as it reduces errors in legal research a
 
 # Steps to use
 Step 1: Give Query to the chatbot.
+
 Step 2: Preprocessing the Query and extracting Keywords.
+
 Step 3: Matching the Query with the laws that are stored in individual documents.
+
 Step 4: Compare the accuracy of Cosine Similarity and Jaccard Similarity.
+
 Step 5: Rank all the similar documents.
+
 Step 6: Display.

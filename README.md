@@ -13,3 +13,11 @@ To achieve these goals, the system would use NLP and machine learning algorithms
 These algorithms would help identify relevant keywords, concepts, and relationships within legal documents, enabling the system to retrieve and rank the most pertinent laws. 
 We have achieved an accuracy rate of over 80% in evaluating the effectiveness of this system. 
 This high accuracy level is significant as it reduces errors in legal research and enhances the quality of legal advice provided.
+
+# Steps to use
+Step 1: Give Query to the chatbot.
+Step 2: Preprocessing the Query and extracting Keywords.
+Step 3: Matching the Query with the laws that are stored in individual documents.
+Step 4: Compare the accuracy of Cosine Similarity and Jaccard Similarity.
+Step 5: Rank all the similar documents.
+Step 6: Display.
